@@ -1,0 +1,17 @@
+.user{
+    transition: 0.5s;
+}
+.parent{
+    box-shadow: 0 0 40px 0 rgba(0,0,0,0.4);
+}
+.sidebar .user:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.sidebar .active{
+    background-color: black !important;
+    color: white;
+    border: 1px solid black!important;
+}

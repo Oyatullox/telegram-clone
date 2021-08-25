@@ -1,0 +1,11 @@
+.sidebar-parent{
+    background-color: white;
+    height: 750px;
+    z-index: 2;
+    box-shadow: 10px 0 20px 0 rgba(0,0,0,0.4);
+}
+
+.content-parent{
+    height: 750px;
+    background-color: black;
+}
