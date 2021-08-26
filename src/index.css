@@ -7,5 +7,5 @@
 
 .content-parent{
     height: 750px;
-    background-color: black;
+    background: linear-gradient(180deg,blue,black);
 }

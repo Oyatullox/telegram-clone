@@ -72,6 +72,9 @@ class Content extends Component {
 
                             </div>
                             <div className={"message-background"}></div>
+                            <div className="circle-in-photo"></div>
+                            <h1 className={"telegram"}>TELEGRAM CLONE</h1>
+                            <h5 className={"blog"}>OYATULLOH_CODER .BLOG</h5>
                         </div> :
                         <div>
 

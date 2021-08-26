@@ -33,3 +33,29 @@
     background-color: white;
     height: 623px;
 }
+.circle-in-photo{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    right: 220px;
+    top: 190px;
+    border-radius: 50%;
+    z-index: 3;
+    background: linear-gradient(180deg,white,blue 70%);
+    box-shadow: 0 0 100px 15px white;
+}
+.telegram{
+    position: absolute;
+    right: 130px;
+    color: white;
+    top: 380px;
+    font-family: "Segoe UI Emoji", serif;
+}
+.blog{
+    position: absolute;
+    right: 0px;
+    color: white;
+    font-family: "Droid Sans Mono Slashed", serif;
+    /*box-shadow: 0 0 100px 0 white;*/
+    text-shadow: #989898 2px 1px ;
+}
